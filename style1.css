@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.navbar img{
+    height: 30px;
+}
+.nav-item {
+font-size: 20px;
+padding: 7px;
+}
+
+.card-body h1{
+    margin-top: 10px;
+    margin-bottom: 50px;
+    text-decoration: double;
+
+}
+.card-body p{
+    margin-bottom: 40px;
+}
+.poster img{
+    
+    width:100%;
+}
+.teeth img{
+    width:10% !important;
+}
